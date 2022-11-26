@@ -8,7 +8,7 @@
 :heavy_check_mark:  Selenium을 이용하여 유튜브 데이터 크롤링  <br/>
 :heavy_check_mark:  WordVector을 이용하여 자연어 처리  <br/>
 :heavy_check_mark:  양방향 LSTM 순환신경망을 이용하여 모델 학습  <br/>
-:heavy_check_mark:  학습한 모델로 제목 생성/테스트
+
 
 * <h2>Web Crawling</h2>
 
@@ -27,3 +27,14 @@
 
   - 전처리 후 데이터 <br/>
 ![image](https://user-images.githubusercontent.com/115959569/204072228-8c5d73e2-7a50-4026-85de-ee6f03b6d176.png)<br/>
+
+
+## :pushpin: 참고문헌
+*  Selenium  
+    - https://github.com/SOMJANG/Youtube_Comment_Crawler
+*  Word Vector  
+    - https://github.com/KyungbokLee/korean_word2vec
+*  Bidirectional LSTM 
+    - http://www.bioinf.jku.at/publications/older/2604.pdf
+    - https://cryptosalamander.tistory.com/175
+    - https://www.tensorflow.org/api_docs/python/tf/keras/layers/Bidirectional
