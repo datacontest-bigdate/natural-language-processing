@@ -33,6 +33,7 @@
 *  Selenium  
     - https://github.com/SOMJANG/Youtube_Comment_Crawler
 *  Word Vector  
+    - https://arxiv.org/pdf/1301.3781.pdf
     - https://github.com/KyungbokLee/korean_word2vec
 *  Bidirectional LSTM 
     - http://www.bioinf.jku.at/publications/older/2604.pdf
