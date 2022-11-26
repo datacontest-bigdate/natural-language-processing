@@ -28,6 +28,19 @@
   - 전처리 후 데이터 <br/>
 ![image](https://user-images.githubusercontent.com/115959569/204072228-8c5d73e2-7a50-4026-85de-ee6f03b6d176.png)<br/>
 
+* <h2>Vectorization</h2>
+    
+  - 벡터화 한 데이터
+![image](https://user-images.githubusercontent.com/115959569/204084817-157d9f57-e80d-4af4-8f91-3a2e6364907d.png)
+
+
+* <h2>Machine Learning</h2>
+    
+  - 모델 학습
+![image](https://user-images.githubusercontent.com/115959569/204085469-1ec8adea-7aee-47aa-8087-cb0347048688.png)
+
+
+    
 
 ## :pushpin: 참고문헌
 *  Selenium  
