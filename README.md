@@ -44,10 +44,10 @@
 
 ## :pushpin: 참고문헌
 *  Selenium  
-    - https://github.com/SOMJANG/Youtube_Comment_Crawler
+    - https://github.com/SOMJANG/Youtube_Comment_Crawler.git
 *  Word Vector  
     - https://arxiv.org/pdf/1301.3781.pdf
-    - https://github.com/KyungbokLee/korean_word2vec
+    - https://github.com/KyungbokLee/korean_word2vec.git
 *  Bidirectional LSTM 
     - http://www.bioinf.jku.at/publications/older/2604.pdf
     - https://cryptosalamander.tistory.com/175
